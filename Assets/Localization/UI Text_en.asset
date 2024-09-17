@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 31fca0c5de99633438806301361713e8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20185939181568
+    m_Localized: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20111075049472
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20543474237440
+    m_Localized: "Evoslash is a First-Person Sword Fighting game powerd by Bodynodes.\nWith
+      Bodynodes Sensor App you will be able to control your sword and to cut down
+      objects and get points.\nThe more points you get, the harder the game becomes.
+      Are you up for the challenge? \nYou can find the the APK here: https://github.com/ManuDev9/body-nodes-sensor/tree/master/android/BodynodesSensor/release\n\n\n\n\n\n\n\n\n\n\n\n\nOnce
+      installed, go to Evoslash main menu and press PLAY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22557344137216
+    m_Localized: YES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20488570798080
+    m_Localized: How it works
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21196430901248
+    m_Localized: You Lost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20773506646016
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21858652782592
+    m_Localized: RESTART
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22222106001408
+    m_Localized: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22154850336768
+    m_Localized: Node not found
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22508988006400
+    m_Localized: Do you want to exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22743881613312
+    m_Localized: Connect Bodynodes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22957350715392
+    m_Localized: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23188486225920
+    m_Localized: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22782347575296
+    m_Localized: "Make sure your phone is connected to your local WiFi.\nScan the
+      QR code to Download the Bodynodes Sensor App.\n\n\n\n\n\n\n\n\n\n\n\nThen open
+      the app and\r press START."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22898244583424
+    m_Localized: OK, DONE!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23087952953344
+    m_Localized: 'Trying to connect as:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20025083428864
+    m_Localized: INFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20292931682304
+    m_Localized: 'Powered by
+
+      Bodynodes'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20612395040768
+    m_Localized: 'Powered by
+
+      Bodynodes'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19653589729280
+    m_Localized: PLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20834156281856
+    m_Localized: 'Powered by
+
+      Bodynodes'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21056303398912
+    m_Localized: Haptic Feedback Enabled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22010499170304
+    m_Localized: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22263528947712
+    m_Localized: CONNECT BODYNODES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23358447812608
+    m_Localized: 'Welcome to Evoslash!
+
+      Cut through incoming objects with precision.
+
+      Each
+      item affects you differently.
+
+
+      Need to re-center your sword?
+
+      Press
+      Re-center on the App.
+
+
+      Ready to defend?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415121465409536
+    m_Localized: CREDITS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 419008125599744
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420022329278464
+    m_Localized: 'Bodynodes for the '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429616829038592
+    m_Localized: "Thanks to Bodynodes\r\nBodynodes is powering the system that makes
+      the sensor and the game communicates. On top of that the sensor operates along
+      Bodynodes specifications\r\nCopyrights:\r\n\r\n// MIT License\r\n//\r\n// Copyright
+      (c) 2019-2024 Manuel Bottini\r\n//\r\n// Permission is hereby granted, free
+      of charge, to any person obtaining a copy\r\n// of this software and associated
+      documentation files (the \"Software\"), to deal\r\n// in the Software without
+      restriction, including without limitation the rights\r\n// to use, copy, modify,
+      merge, publish, distribute, sublicense, and/or sell\r\n// copies of the Software,
+      and to permit persons to whom the Software is\r\n// furnished to do so, subject
+      to the following conditions:\r\n\r\n// The above copyright notice and this
+      permission notice shall be included in all\r\n// copies or substantial portions
+      of the Software.\r\n\r\n// THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY
+      OF ANY KIND, EXPRESS OR\r\n// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+      OF MERCHANTABILITY,\r\n// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+      IN NO EVENT SHALL THE\r\n// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+      CLAIM, DAMAGES OR OTHER\r\n// LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+      TORT OR OTHERWISE, ARISING FROM,\r\n// OUT OF OR IN CONNECTION WITH THE SOFTWARE
+      OR THE USE OR OTHER DEALINGS IN THE\r\n// SOFTWARE.\r\n\r\nLink:\r\nhttps://bodynodesdev.wixsite.com/home\r\n\r\n-------------------------------\r\n\r\nThanks
+      to Microlight\r\nMicroBar resources have been used for the health bar system
+      and the progress bars\r\nLink:\r\nhttps://assetstore.unity.com/packages/tools/gui/microbar-animated-health-bar-239154\r\n\r\n-------------------------------\r\n\r\nThanks
+      to Reynard Droste\r\nJapanese Zen Garden Pack resources have been used for
+      the enviroment in the game\r\n\r\nLink:\r\nhttps://assetstore.unity.com/packages/3d/props/japanese-zen-garden-pack-69167\r\n\r\n-------------------------------\r\n\r\nThank
+      to Dustin Whirle\r\nHis code was used to implement the cut of the meshes\r\n\r\nCopyrights:\r\n\r\n//   
+      MIT License\r\n//    \r\n//    Copyright (c) 2017 Dustin Whirle\r\n//    \r\n//   
+      My Youtube stuff: https://www.youtube.com/playlist?list=PL-sp8pM7xzbVls1NovXqwgfBQiwhTA_Ya\r\n//   
+      \r\n//    Permission is hereby granted, free of charge, to any person obtaining
+      a copy\r\n//    of this software and associated documentation files (the \"Software\"),
+      to deal\r\n//    in the Software without restriction, including without limitation
+      the rights\r\n//    to use, copy, modify, merge, publish, distribute, sublicense,
+      and/or sell\r\n//    copies of the Software, and to permit persons to whom
+      the Software is\r\n//    furnished to do so, subject to the following conditions:\r\n//   
+      \r\n//    The above copyright notice and this permission notice shall be included
+      in all\r\n//    copies or substantial portions of the Software.\r\n//    \r\n//   
+      THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\r\n//   
+      IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\r\n//   
+      FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\r\n//   
+      AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\r\n//   
+      LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\r\n//   
+      OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\r\n//   
+      SOFTWARE.\r\n\r\n-------------------------------\r\n\r\nThanks to Synty Studios\r\nSimple
+      Sky - Cartoon assets have been used for the sky\r\n\r\nLink:\r\nhttps://assetstore.unity.com/packages/3d/environments/simple-sky-cartoon-assets-42373\r\n\r\n-------------------------------\r\n\r\nThanks
+      to Valday Team\r\nLow Poly Nature Pack (Lite) assets have been used for the
+      environment\r\n\r\nLink:\r\nhttps://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-nature-pack-lite-40444\r\n\r\n-------------------------------\r\n\nThanks
+      to Kubbi for the music used on the background while playing:\r\nKubbi - Ember
+      [Chiptune] is licensed under a Creative Commons license (CC-BY-SA)\r\nMusic
+      provided by BreakingCopyright: https://www.youtube.com/watch?v=ltAGIUleD5I\n\n-------------------------------\r\n\r\nThe
+      following assets have been created on Blender and then imported in the project
+      by us:\r\n- Sword\r\n- Apple\r\n- Blueberry\r\n- Pot\r\n- Dish\r\n- Vase\r\n\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450628031348736
+    m_Localized: 'New node found!
+
+      Do you want to connect it?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450804498300928
+    m_Localized: BackToMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147439645720576
+    m_Localized: 'Setting up Player and
+
+      Bodypart on your node.
+
+      Please
+      Accept'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1275556485922816
+    m_Localized: 'Game finished, you got
+
+      a new record! '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1526852191256576
+    m_Localized: Force Player and Bodypart on node
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1528980188168192
+    m_Localized: HapticToggleChanged
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1532882522472448
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1532941557301248
+    m_Localized: 'Game Name:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1539966529961984
+    m_Localized: 'Highest Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1540581138104320
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1882215881113600
+    m_Localized: High difficulty from the beginning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1894802010144768
+    m_Localized: Music ON while playing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1895139328655360
+    m_Localized: HardcoreToggleChanged
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76508275318456320
+    m_Localized: 'Make sure your phone is connected to your local WiFi.
+
+      Open
+      up your Bodynodes Sensor App and tap on Start.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

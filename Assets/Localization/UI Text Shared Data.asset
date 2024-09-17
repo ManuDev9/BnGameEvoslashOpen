@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: 31fca0c5de99633438806301361713e8
+  m_Entries:
+  - m_Id: 19653589729280
+    m_Key: MainMenuScene/MenuCanvas/BackgroundImage/PlayButton (Legacy)/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20025083428864
+    m_Key: MainMenuScene/MenuCanvas/BackgroundImage/HowItWorksButton (Legacy)/Text
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20111075049472
+    m_Key: MainMenuScene/MenuCanvas/BackgroundImage/SettingsButton (Legacy)/Text
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20185939181568
+    m_Key: MainMenuScene/MenuCanvas/BackgroundImage/ExitButton (Legacy)/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20292931682304
+    m_Key: MainMenuScene/MenuCanvas/BackgroundImage/PoweredBy (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20488570798080
+    m_Key: HelpScene/MainCanvas/BackgroundImage/Title (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20543474237440
+    m_Key: HelpScene/MainCanvas/BackgroundImage/Description (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20612395040768
+    m_Key: HelpScene/MainCanvas/BackgroundImage/PoweredBy (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20773506646016
+    m_Key: SettingsMenuScene/MainCanvas/BackgroundImage/Title (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20834156281856
+    m_Key: SettingsMenuScene/MainCanvas/BackgroundImage/PoweredBy (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21056303398912
+    m_Key: SettingsMenuScene/MainCanvas/HapticToggle/Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21196430901248
+    m_Key: InfiniteGameScene/GameUIManager/YouLostCanvas/BackgroundImage/Title (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21858652782592
+    m_Key: InfiniteGameScene/GameUIManager/YouLostCanvas/BackgroundImage/RestartButton
+      (Legacy)/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22010499170304
+    m_Key: InfiniteGameScene/GameUIManager/YouLostCanvas/BackgroundImage/ExitButton
+      (Legacy)/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22154850336768
+    m_Key: InfiniteGameScene/GameUIManager/ConnectNodeCanvas/BackgroundImage/Title
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22222106001408
+    m_Key: InfiniteGameScene/GameUIManager/ConnectNodeCanvas/BackgroundImage/ExitButton
+      (Legacy)/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22263528947712
+    m_Key: InfiniteGameScene/GameUIManager/ConnectNodeCanvas/BackgroundImage/ConnectBodynodesButton
+      (Legacy)/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22508988006400
+    m_Key: InfiniteGameScene/GameUIManager/ExitCanvas/BackgroundImage/Title (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22557344137216
+    m_Key: InfiniteGameScene/GameUIManager/ExitCanvas/BackgroundImage/YesButton (Legacy)/Text
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22743881613312
+    m_Key: InfiniteGameScene/GameUIManager/ConnectBodynodesCanvas/BackgroundImage/Title
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22782347575296
+    m_Key: InfiniteGameScene/GameUIManager/ConnectBodynodesCanvasP/BackgroundImage/Description
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22898244583424
+    m_Key: InfiniteGameScene/GameUIManager/ConnectBodynodesCanvas/BackgroundImage/DoneButton
+      (Legacy)/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22957350715392
+    m_Key: InfiniteGameScene/GameUIManager/ConnectBodynodesCanvas/BackgroundImage/ExitButton
+      (Legacy)/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23087952953344
+    m_Key: InfiniteGameScene/GameUIManager/ConnectingCanvas/BackgroundImage/Title
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23188486225920
+    m_Key: InfiniteGameScene/GameUIManager/ConnectingCanvas/BackgroundImage/ExitButton
+      (Legacy)/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23358447812608
+    m_Key: InfiniteGameScene/GameUIManager/LetsStartCanvas/BackgroundImage/Title
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415121465409536
+    m_Key: HelpScene/MainCanvas/CreditsButton (Legacy)/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 419008125599744
+    m_Key: HelpScene/CreditsCanvas/BackgroundImage/Title (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420022329278464
+    m_Key: HelpScene/CreditsCanvas/BackgroundImage/Scroll View/Viewport/Content/Description
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429616829038592
+    m_Key: HelpScene/CreditsCanvas/BackgroundImage/Scroll View/Viewport/Content/Description
+      (Legacy) 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450628031348736
+    m_Key: InfiniteGameScene/GameUIManager/NodeFoundCanvas/BackgroundImage/Title
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450804498300928
+    m_Key: InfiniteGameScene/GameUIManager/NodeFoundCanvas/BackgroundImage/YesButton
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147439645720576
+    m_Key: InfiniteGameScene/GameUIManager/LetsStartCanvas/BackgroundImage/SettingUp
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1275556485922816
+    m_Key: InfiniteGameScene/GameUIManager/YouLostCanvas/BackgroundImage/NewHighScoreTitle
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1526852191256576
+    m_Key: SettingsMenuScene/MainCanvas/ForceBodypartPlayerToggle/Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1528980188168192
+    m_Key: SettingsMenuScene/MainCanvas/ForceBodypartPlayerToggle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1532882522472448
+    m_Key: SettingsMenuScene/MainCanvas/GameName/GameNameButton (Legacy)/Text (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1532941557301248
+    m_Key: SettingsMenuScene/MainCanvas/GameName/GameNameText (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1539966529961984
+    m_Key: SettingsMenuScene/MainCanvas/HighestScore/HighScoreText (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1540581138104320
+    m_Key: SettingsMenuScene/MainCanvas/HighestScore/HighScoreClearButton (Legacy)/Text
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1882215881113600
+    m_Key: SettingsMenuScene/MainCanvas/HardcoreToggle/Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1894802010144768
+    m_Key: SettingsMenuScene/MainCanvas/PlayingMusicToggle/Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1895139328655360
+    m_Key: SettingsMenuScene/MainCanvas/PlayingMusicToggle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76508275318456320
+    m_Key: InfiniteGameScene/GameUIManager/ConnectBodynodesCanvasDev/BackgroundImage/Description
+      (Legacy)
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6398892100474896408
+  references:
+    version: 2
+    RefIds:
+    - rid: 6398892100474896408
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1705921402534
