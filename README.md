@@ -4,8 +4,17 @@ This is the open source version of Evoslash, the first Bodynodes games based on 
 Tested with:
 - Unity 2022.3.16f1
 
-Installation Notes:
-- You need to download the submodules, here are the commands from the main directory "BnGameEvoslashOpen"
+## What is it?
+Evoslash is a First-Person Sword Fighting game powerd by Bodynodes.
+With Bodynodes Sensor App you will be able to control your sword and to cut down objects and get points.
+The more points you get, the harder the game becomes. Are you up for the challenge? 
+You can find the the APK here: https://github.com/ManuDev9/body-nodes-sensor/tree/master/android/BodynodesSensor/release
+
+Once installed, go to Evoslash main menu and press PLAY.
+
+
+## Installation Notes
+You need to download the submodules, here are the commands from the main directory "BnGameEvoslashOpen"
         
       # You are inside "BnGameEvoslashOpen"
       cd Assets/Bodynodes
@@ -20,13 +29,25 @@ Installation Notes:
       git submodule update
       # body-nodes-common gets installed
 
-## What is it?
-Evoslash is a First-Person Sword Fighting game powerd by Bodynodes.
-With Bodynodes Sensor App you will be able to control your sword and to cut down objects and get points.
-The more points you get, the harder the game becomes. Are you up for the challenge? 
-You can find the the APK here: https://github.com/ManuDev9/body-nodes-sensor/tree/master/android/BodynodesSensor/release
+At the beginning the SwordPlayer and the SwordController might get disconnected from their scripts and might need to setup again. They are both in the InfiniteGameScene
 
-Once installed, go to Evoslash main menu and press PLAY.
+For the SwordPlayer, click on the Script input text field, and assign a BodynodesPlayer.
+
+For the SwordController (inside the SwordPlayer as a child), scroll down and find the Script input field, assign a BodynodesController.
+You can assign any Bodypart you want, the one I usually use is "katana"
+The Main Player is "SwordPlayer"
+The Bodypart Transform should be the same SwordController object itself.
+Here are the values you should assing for the axis configuration
+
+    new_w_val = 'w';
+    new_x_val = 'z';
+    new_y_val = 'y';
+    new_z_val = 'x';
+
+    new_w_sign = '+';
+    new_x_sign = '-';
+    new_y_sign = '+';
+    new_z_sign = '+';
 
 
 ## Credits
