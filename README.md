@@ -4,6 +4,22 @@ This is the open source version of Evoslash, the first Bodynodes games based on 
 Tested with:
 - Unity 2022.3.16f1
 
+Installation Notes:
+- You need to download the submodules, here are the commands from the main directory "BnGameEvoslashOpen"
+        
+      # You are inside "BnGameEvoslashOpen"
+      cd Assets/Bodynodes
+      git submodule init
+      git submodule sync
+      git submodule update
+      # body-nodes-host gets installed
+      cd body-nodes-host
+      # You are inside "body-nodes-host"
+      git submodule init
+      git submodule sync
+      git submodule update
+      # body-nodes-common gets installed
+
 ## What is it?
 Evoslash is a First-Person Sword Fighting game powerd by Bodynodes.
 With Bodynodes Sensor App you will be able to control your sword and to cut down objects and get points.
