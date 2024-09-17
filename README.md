@@ -29,9 +29,12 @@ You need to download the submodules, here are the commands from the main directo
       git submodule update
       # body-nodes-common gets installed
 
-At the beginning the SwordPlayer and the SwordController might get disconnected from their scripts and might need to setup again. They are both in the InfiniteGameScene
+At the beginning the GameManager, SwordPlayer, and the SwordController might get disconnected from their scripts and might need to setup again. They are both in the InfiniteGameScene
+
 
 For the SwordPlayer, click on the Script input text field, and assign a BodynodesPlayer.
+
+For the GameManager, click on the Script, and assign as BnPlayer the SwordPlayer.
 
 For the SwordController (inside the SwordPlayer as a child), scroll down and find the Script input field, assign a BodynodesController.
 You can assign any Bodypart you want, the one I usually use is "katana"
