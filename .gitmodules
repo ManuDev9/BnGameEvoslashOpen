@@ -1,0 +1,3 @@
+[submodule "Assets/Bodynodes/body-nodes-host"]
+	path = Assets/Bodynodes/body-nodes-host
+	url = https://github.com/ManuDev9/body-nodes-host.git
