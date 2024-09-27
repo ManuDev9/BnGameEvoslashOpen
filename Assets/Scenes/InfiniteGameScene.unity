@@ -6494,7 +6494,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1429629038}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ab013077812cbe645840f3e9b8095186, type: 3}
+  m_Script: {fileID: 11500000, guid: f7244a80dd66b624794209139b113b75, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1451271082
@@ -8188,12 +8188,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1608879476}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c19d00c5cd7e358488a785990d93e7a8, type: 3}
+  m_Script: {fileID: 11500000, guid: 62443d558107fa145b6af967c29c03e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mBodypart: katana
-  mMainPlayer: {fileID: 1429629041}
-  mBodypartTransform: {fileID: 1608879480}
+  mBodypart: 
+  mMainPlayer: {fileID: 0}
+  mBodypartTransform: {fileID: 0}
   new_w_val: 119
   new_x_val: 122
   new_y_val: 121
